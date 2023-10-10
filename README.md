@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wenn Mark Recopelacion</h1>
+<h1 align="center">Hi 👋, I'm Rommel Bolongon</h1>
 <h3 align="center">A hard-working programmer that has an aptitude for creating solutions in the least amount of time. And also looking forward to use my programming skills for the growth of the organization and myself.</h3>
 
 - 🔭 I’m currently working on **FullStack Ecommerce Project**
