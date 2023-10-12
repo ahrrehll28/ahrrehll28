@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rommel Bolongon</h1>
-<h3 align="center">A hard-working programmer that has an aptitude for creating solutions in the least amount of time. And also looking forward to use my programming skills for the growth of the organization and myself.</h3>
+<h3 align="center">I am a proficient virtual assistant with expertise in Graphic Design, Video Editing, Animation, Social Media Management, Web Design, and Software Development/Web Development. My motivation stems not merely from this being my profession, but from a genuine love for programming and design. Passion fuels my dedication to deliver exceptional work in these domains.</h3>
 
-- 🔭 I’m currently working on **FullStack Ecommerce Project**
+- 🔭 I’m currently looking for a remote job and a company who can maximize my skills and experience.
 
 - 🌱 I’m currently learning **Angular, Asp.net**
 
-- 👨‍💻 All of my projects are available at [https://markustech.github.io/PersonalPortfolioV2/](https://markustech.github.io/PersonalPortfolioV2/)
+- 👨‍💻 Download here my Portfolio in Graphic Designs https://drive.google.com/file/d/1OJOEgaL-flDBqxpiM1FE29MibKkpexkz/view?usp=sharing
+  
+- 💬 Ask me about **Mongodb, Mysql, React, Expressjs, Nodejs**/ **Web Designs, Graphics, Video Editing and Animation**
 
-- 💬 Ask me about **Mongodb, Mysql, React, Expressjs, Nodejs**
+- 📫 How to reach me **rommelbolongon57@gmail.com**
 
-- 📫 How to reach me **wm.recopelacion@gmail.com**
-
-- 📄 Know about my experiences [https://www.mediafire.com/file/r95ynkp404k065h/Wenn-Mark-Recopelacion.pdf/file](https://www.mediafire.com/file/r95ynkp404k065h/Wenn-Mark-Recopelacion.pdf/file)
+- 📄 Know about my experiences https://drive.google.com/file/d/11S0CXPb9orif-i8aeFIwljs85GfLhrP6/view?usp=sharing
 
 <p align="left">
 </p>
